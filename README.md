@@ -1,5 +1,6 @@
 # Lucy
 Lucy from Cyberpunk Edgerunners as a skin for Deputy
+
 Thanks to Bog for the Deputy Character!
 
 ![Lucy](https://github.com/user-attachments/assets/12182dd8-e770-414c-8b24-e871126c720b)
